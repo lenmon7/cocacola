@@ -1,0 +1,10 @@
+Index: z02.py
+IDEA additional info:
+Subsystem: com.intellij.openapi.diff.impl.patch.CharsetEP
+<+>UTF-8
+===================================================================
+--- z02.py	(revision d4317ce9b4821f69c412ea28ea4d2198b349bcac)
++++ z02.py	(revision d4317ce9b4821f69c412ea28ea4d2198b349bcac)
+@@ -0,0 +1,1 @@
++#@Time    :2019/2/11 15:16
+\ No newline at end of file
